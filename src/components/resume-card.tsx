@@ -80,9 +80,10 @@ export const ResumeCard = ({
                   )}
                 />
               </h3>
-              <div className="text-xs sm:text-sm tabular-nums text-muted-foreground text-right">
-                {period}
-              </div>
+              <div className="text-xs sm:text-sm tabular-nums text-muted-foreground text-right whitespace-nowrap">
+  {period}
+</div>
+
             </div>
             {subtitle && <div className="font-sans text-xs">{subtitle}</div>}
           </CardHeader>

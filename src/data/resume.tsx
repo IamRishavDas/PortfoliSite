@@ -3,7 +3,7 @@ import { HomeIcon, MailIcon } from "lucide-react";
 
 export const DATA = {
   name: "Rishav Das",
-  initials: "DV",
+  initials: "RD",
   url: "",
   location: "WestBengal, India",
   locationLink: "",

@@ -11,7 +11,7 @@ export const DATA = {
     "B. Tech. in Computer Science & Engineering",
   summary:
     "My fullname is Rishav Das. I am currently in my final year of pursuing a Bachelor of Technology in Computer Science and Engineering, and I have developed a strong foundation in software development, particularly in Java, Spring Boot, and database management.",
-  avatarUrl: "/rishav.jpg",
+  avatarUrl: "/me.jpg",
   skills: [
     "Java", "C", "Spring Boot", "Microservices", "Docker", "MySQL", "MongoDB", "JavaScript", "R", "Git", "GitHub"
   ],
